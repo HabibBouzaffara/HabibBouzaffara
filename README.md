@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Habibib Bouzaffara
+- 👀 I’m studying computer science
+- 🌱 I’m currently learning web development
